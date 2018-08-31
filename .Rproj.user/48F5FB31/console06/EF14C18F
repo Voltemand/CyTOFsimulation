@@ -41,3 +41,48 @@ Linux unix309.wehi.edu.au 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 00:31:26 UTC 2
 Initialized empty Git repository in /wehisan/home/allstaff/p/pullin.j/CyTOFsimulation/.git/
 ]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 490 % echo "# CyTOD[KFsimulation [K" >> READMD [K[K[KME.ed[K[Kmd
 ]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 492 % git add REA[K[K[K.
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 494 % git commit "[K-m "first commit [K" 
+[master (root-commit) 11c8f5c] first commit
+ 9 files changed, 85 insertions(+), 0 deletions(-)
+ create mode 100644 .Rproj.user/48F5FB31/console06/EF14C18F
+ create mode 100644 .Rproj.user/48F5FB31/console06/INDEX001
+ create mode 100644 .Rproj.user/48F5FB31/sources/prop/1F02B2E0
+ create mode 100644 .Rproj.user/48F5FB31/sources/prop/INDEX
+ create mode 100644 .Rproj.user/48F5FB31/sources/s-b4c72e82/2923E052
+ create mode 100644 .Rproj.user/48F5FB31/sources/s-b4c72e82/2923E052-contents
+ create mode 100644 .Rproj.user/48F5FB31/sources/s-b4c72e82/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 CyTOFsimulation.Rproj
+ create mode 100644 README.md
+ create mode 100644 simulation.R
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 495 % git r[K[K[K[K[Kgit remote add origin git@github.com:Voltemand/CyTOFsimulation.git
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 497 % git push -u origin master
+Counting objects: 20, done.
+Delta compression using up to 46 threads.
+Compressing objects:   6% (1/15)   Compressing objects:  13% (2/15)   Compressing objects:  20% (3/15)   Compressing objects:  26% (4/15)   Compressing objects:  33% (5/15)   Compressing objects:  40% (6/15)   Compressing objects:  46% (7/15)   Compressing objects:  53% (8/15)   Compressing objects:  60% (9/15)   Compressing objects:  66% (10/15)   Compressing objects:  73% (11/15)   Compressing objects:  80% (12/15)   Compressing objects:  86% (13/15)   Compressing objects:  93% (14/15)   Compressing objects: 100% (15/15)   Compressing objects: 100% (15/15), done.
+Writing objects:   5% (1/20)   Writing objects:  10% (2/20)   Writing objects:  15% (3/20)   Writing objects:  20% (4/20)   Writing objects:  25% (5/20)   Writing objects:  30% (6/20)   Writing objects:  35% (7/20)   Writing objects:  40% (8/20)   Writing objects:  45% (9/20)   Writing objects:  50% (10/20)   Writing objects:  55% (11/20)   Writing objects:  60% (12/20)   Writing objects:  65% (13/20)   Writing objects:  70% (14/20)   Writing objects:  75% (15/20)   Writing objects:  80% (16/20)   Writing objects:  85% (17/20)   Writing objects:  90% (18/20)   Writing objects:  95% (19/20)   Writing objects: 100% (20/20)   Writing objects: 100% (20/20), 2.75 KiB, done.
+Total 20 (delta 0), reused 0 (delta 0)
+To git@github.com:Voltemand/CyTOFsimulation.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 499 % git ad=[K[K[Kcoomit [K[K[K[K[Kmiit [K[K[K[Kitt[K[K[Kmit - [K[K"change readme [K" 
+error: pathspec 'change readme' did not match any file(s) known to git.
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 501 % geit [K[K[K[K[Kgit commit "change readme" -"change readme" m"change readme"  "change readme" 
+# On branch master
+# Changed but not updated:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   .Rproj.user/48F5FB31/console06/EF14C18F
+#       modified:   .Rproj.user/48F5FB31/sources/prop/INDEX
+#       modified:   README.md
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#       .Rproj.user/48F5FB31/sources/prop/ADF493DD
+#       .Rproj.user/48F5FB31/sources/s-b4c72e82/C0B07EC6
+#       .Rproj.user/48F5FB31/sources/s-b4c72e82/C0B07EC6-contents
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 502 % git add . 
