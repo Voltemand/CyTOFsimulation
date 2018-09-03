@@ -47,14 +47,3 @@ samples <- rnorm(N)*sds[components]+mus[components]
 
 hist(samples)
 
-#-------------
-
-# Calculate the covariance matrix 
-
-A <- matrix(rnorm())
-
-
-
-
-
-

@@ -86,3 +86,63 @@ error: pathspec 'change readme' did not match any file(s) known to git.
 #       .Rproj.user/48F5FB31/sources/s-b4c72e82/C0B07EC6-contents
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 502 % git add . 
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 504 % git add .  echo DBD8A98F && /usr/bin/env && echo 43BA622[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "change readme" [K
+[master 36d002d] change readme
+ 6 files changed, 80 insertions(+), 1 deletions(-)
+ create mode 100644 .Rproj.user/48F5FB31/sources/prop/ADF493DD
+ create mode 100644 .Rproj.user/48F5FB31/sources/s-b4c72e82/C0B07EC6
+ create mode 100644 .Rproj.user/48F5FB31/sources/s-b4c72e82/C0B07EC6-contents
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 505 % git commit -m "change readme" [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd . [K echo DBD8A98F && /usr/bin/env && echo 43BA622[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "change readme" [K"change readme" [K[C[C[C[C[C[C[C[C[C[C[C[C[C[C echo DBD8A98F && /usr/bin/env && echo 43BA622[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push -u origin master[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C echo DBD8A98F && /usr/bin/env && echo 43BA622[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin git@github.com:Voltemand/CyTOFsimulation.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C echo DBD8A98F && /usr/bin/env && echo 43BA622[K[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push -u origin master[K
+Counting objects: 22, done.
+Delta compression using up to 46 threads.
+Compressing objects:   7% (1/13)   Compressing objects:  15% (2/13)   Compressing objects:  23% (3/13)   Compressing objects:  30% (4/13)   Compressing objects:  38% (5/13)   Compressing objects:  46% (6/13)   Compressing objects:  53% (7/13)   Compressing objects:  61% (8/13)   Compressing objects:  69% (9/13)   Compressing objects:  76% (10/13)   Compressing objects:  84% (11/13)   Compressing objects:  92% (12/13)   Compressing objects: 100% (13/13)   Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/13)   Writing objects:  15% (2/13)   Writing objects:  23% (3/13)   Writing objects:  30% (4/13)   Writing objects:  38% (5/13)   Writing objects:  46% (6/13)   Writing objects:  53% (7/13)   Writing objects:  61% (8/13)   Writing objects:  69% (9/13)   Writing objects:  76% (10/13)   Writing objects:  84% (11/13)   Writing objects:  92% (12/13)   Writing objects: 100% (13/13)   Writing objects: 100% (13/13), 3.23 KiB, done.
+Total 13 (delta 0), reused 0 (delta 0)
+To git@github.com:Voltemand/CyTOFsimulation.git
+   11c8f5c..36d002d  master -> master
+Branch master set up to track remote branch master from origin.
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 506 % [Kunix309 507 % touch [K pca [K[K[Kac [K_simulation [K.txt
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 508 % [Kunix309 509 % git add[K[Kdd .
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 510 % git push origin master
+Everything up-to-date
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix309 511 %     ************************************************************************
+         ***** WARNING! UNAUTHORIZED USE OF THIS SYSTEM IS ILLEGAL! *****
+    This system is for the use of authorized users only.  Individuals
+    using this computer system without authority, or in excess of their
+    authority, are subject to having all of their activities on this system
+    monitored and recorded by system personnel.
+
+    In the course of monitoring individuals improperly using this system,
+    or in the course of system maintenance, the activities of authorized
+    users may also be monitored.
+
+    Anyone using this system expressly consents to such monitoring and is
+    advised that if such monitoring reveals possible evidence of criminal
+    activity, system personnel may provide the evidence of such monitoring
+    to law enforcement officials.
+    ************************************************************************
+[H[2J(0#3lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk
+#4lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk
+#3x [1m[7mW[0m [1m[7mE[0m [1m[7mH[0m [1m[7mI[0m   LINUX 2.6.32-358.el6.x86_64 UNIXx
+#4x [1m[7mW[0m [1m[7mE[0m [1m[7mH[0m [1m[7mI[0m   LINUX 2.6.32-358.el6.x86_64 UNIXx
+#3mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj
+#4mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj
+
+#6        lqqqqqqqqqqqqqqqqqqqqqk
+#6        x(B This is node UNIX308 (0x
+#6        mqqqqqqqqqqqqqqqqqqqqqj
+
+(B
+
+ ------------------------------------------------------------------------------
+ 
+
+        The Walter and Eliza Hall Institute of Medical Research
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+ 
+Linux unix308.wehi.edu.au 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 00:31:26 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+ 16:39:39 up 85 days, 20:38,  7 users,  load average: 1.06, 1.37, 1.25
+
+]0;/wehisan/home/allstaff/p/pullin.j/CyTOFsimulationunix308 498 % [Kunix308 498 % git add .
